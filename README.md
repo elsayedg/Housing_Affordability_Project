@@ -1,6 +1,6 @@
 # Housing_Affordability_Project
  
-![sabrina-mazzeo--wADGKIcBwM-unsplash](https://github.com/elsayedg/Housing_Affordability_Project/assets/63183189/5506d8d2-2667-4592-afd7-9a2601c35d50)
+![alt text](https://github.com/elsayedg/Housing_Affordability_Project/blob/main/cover.png)
 
 
  ## How to Read it 
