@@ -1,6 +1,6 @@
 # Housing_Affordability_Project
  
-![alt text](https://github.com/elsayedg/Housing_Affordability_Project/blob/main/Housing_Affordability_Project.png)
+![alt text](https://github.com/elsayedg/Housing_Affordability_Project/blob/main/Housing_Affordability.png)
 
 
  ## How to Read it 
